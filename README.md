@@ -8,7 +8,7 @@ NINI 会住在屏幕角落，散步、睡觉、伸懒腰，也会偶尔递来一
 
 ## 下载最新版
 
-前往 **[Releases 下载 LexiBuddy 最新版本](https://github.com/nafigot777/desktop-cat-releases/releases/latest)**。
+前往 **[Releases 下载 LexiBuddy 最新版本](https://github.com/nafigot777/lexibuddy-releases/releases/latest)**。
 
 请选择名为 `LexiBuddy-vX.Y.Z-Universal.zip` 的安装包。Universal 版本同时支持：
 
@@ -59,5 +59,4 @@ LexiBuddy 使用 GitHub Releases 与 Sparkle 提供版本更新。安装本版�
 
 ## 反馈
 
-LexiBuddy 仍是早期测试版本。如果遇到问题或有产品建议，欢迎在本仓库提交 [Issue](https://github.com/nafigot777/desktop-cat-releases/issues)。
-
+LexiBuddy 仍是早期测试版本。如果遇到问题或有产品建议，欢迎在本仓库提交 [Issue](https://github.com/nafigot777/lexibuddy-releases/issues)。

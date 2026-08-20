@@ -55,6 +55,8 @@ LexiBuddy 使用 GitHub Releases 与 Sparkle 提供版本更新。安装本版�
 
 替换或更新 App 不会清除保存在本机的学习进度、自定义伙伴和口粮。
 
+> 词库内容目前会随 App 版本一起更新；独立词库更新器仍在开发中。
+
 ## 反馈
 
 LexiBuddy 仍是早期测试版本。如果遇到问题或有产品建议，欢迎在本仓库提交 [Issue](https://github.com/nafigot777/lexibuddy-releases/issues)。
